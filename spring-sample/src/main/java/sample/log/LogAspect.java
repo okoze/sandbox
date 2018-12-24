@@ -18,6 +18,7 @@ public class LogAspect {
 
 	    System.out.println("引数msgの値です。 : " + msg);
 	    System.out.println("引数contextの値です。 : " + context);
+		// コメント
 
 	}
 
