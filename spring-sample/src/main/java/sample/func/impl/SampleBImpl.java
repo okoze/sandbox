@@ -10,6 +10,7 @@ public class SampleBImpl implements SampleB {
 	public Context start(Message m, Context c) {
 
 		System.out.println("start");
+		System.out.println("start２");
 
 		return c;
 	}
