@@ -11,6 +11,7 @@ public class SampleBImpl implements SampleB {
 
 		System.out.println("start");
 		System.out.println("start２");
+		System.out.println("start３");
 
 		return c;
 	}
